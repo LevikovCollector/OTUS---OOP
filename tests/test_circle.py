@@ -1,5 +1,6 @@
-from figure_objects import Circle
 import pytest
+
+from figure_objects import Circle
 
 
 class TestCircle():

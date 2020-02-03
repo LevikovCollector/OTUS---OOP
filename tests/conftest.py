@@ -1,5 +1,7 @@
 import pytest
+
 from figure_objects import Triangle, Rectangle, Circle, SquareFigure
+
 
 @pytest.fixture
 def create_triangle():

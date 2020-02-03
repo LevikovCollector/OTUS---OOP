@@ -1,5 +1,6 @@
-from figure_objects import SquareFigure
 import pytest
+
+from figure_objects import SquareFigure
 
 
 class TestSquare():

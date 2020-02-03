@@ -1,5 +1,6 @@
-from figure_objects import Rectangle
 import pytest
+
+from figure_objects import Rectangle
 
 
 class TestRectangle():

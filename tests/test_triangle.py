@@ -1,5 +1,7 @@
-from figure_objects import Triangle
 import pytest
+
+from figure_objects import Triangle
+
 
 class TestTriangle():
     def test_istance(self, create_triangle):
